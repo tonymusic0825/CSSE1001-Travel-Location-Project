@@ -1,9 +1,9 @@
 """
-
+CSSE1001 Assignment 1 Travel destination project
 """
 
-__author__ = ""
-__date__ = ""
+__author__ = "Youngsu Choi"
+__date__ = "2019-04-18"
 
 
 from destinations import Destinations
